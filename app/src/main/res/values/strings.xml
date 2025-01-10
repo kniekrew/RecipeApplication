@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Recipes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fruits_veggies"><![CDATA[Fruits&Veggies]]></string>
+    <string name="pastas_pies"><![CDATA[Pastas&Pies]]></string>
+    <string name="title_activity_about">aboutActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="fruit_or_veggie">Fruit or Veggie</string>
+    <string name="pasta_or_pie">Pasta or Pie</string>
+    <string name="meat">Meat</string>
+    <string name="soup">Soup</string>
+    <string name="what_type_of_recipe_n_would_you_like_to_add">What type of recipe\n would you like to add?</string>
+    <string name="bread">Bread</string>
+    <string name="dessert">Dessert</string>
+</resources>
